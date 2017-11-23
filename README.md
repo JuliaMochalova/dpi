@@ -66,3 +66,6 @@ IP: 178.184.51.xxx, провайдер: Kemerovo Regional Telegraph, branch of K
 Вам поможет смена DNS, например, на Яндекс.DNS 77.88.8.8 или Google DNS 8.8.8.8 и 8.8.4.4.
 
 [☺] Ваш провайдер не блокирует сайты. 
+
+
+![](https://github.com/JuliaMochalova/dpi/blob/master/image.png)
